@@ -82,10 +82,12 @@ body {
 
 .chat-message.sent .chat-bubble {
   background-color: #2196f3; /* blue */
+  text-align: right;
 }
 
 .chat-message.received .chat-bubble {
   background-color: #4caf50; /* green */
+  text-align: left;
 }
 
 .chat-footer {
